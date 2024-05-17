@@ -11,7 +11,7 @@ Temos 3 opções de clicks:
 - Sair -> fecha o jogo
 - Créditos -> creditos dos criadores 
 
-[imagem]
+![WhatsApp Image 2024-05-10 at 21 51 14 (2)](https://github.com/TP-Coltec-UFMG/2024_303_pczin/assets/161468932/237471ff-fa5e-4922-9ea9-2c88924a7329)
 
 
 Opções: 
