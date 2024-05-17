@@ -18,7 +18,8 @@ Opções:
 - Regular o som
 - Acessibilidade
 - Idioma
-- [imagem]
+![WhatsApp Image 2024-05-10 at 21 51 14 (1)](https://github.com/TP-Coltec-UFMG/2024_303_pczin/assets/161468932/3e21b0ac-8edc-4c79-addb-e701da4bc26f)
+
 
 
 
