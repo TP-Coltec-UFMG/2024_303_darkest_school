@@ -26,7 +26,9 @@ Opções:
 
 Acessibilidade:
 Colocamos acessibilidade para pessoas daltonicas, e elas podem escolher entre 3 diferentes tipos de daltonismos
-[imagem]
+
+![WhatsApp Image 2024-05-10 at 21 51 14](https://github.com/TP-Coltec-UFMG/2024_303_pczin/assets/161468932/c80db1a5-f72c-4cae-8a01-7e161a8270eb)
+
 
 
 
@@ -36,5 +38,5 @@ Colocamos acessibilidade para pessoas daltonicas, e elas podem escolher entre 3 
 
 Créditos:
 Nome dos criadores
-[imagem]
+![WhatsApp Image 2024-05-10 at 21 51 13](https://github.com/TP-Coltec-UFMG/2024_303_pczin/assets/161468932/a69d9298-83fe-4023-b151-c950971aa368)
 
