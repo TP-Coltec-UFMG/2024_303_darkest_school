@@ -18,7 +18,8 @@ Opções:
 - Regular o som
 - Acessibilidade
 - Idioma
-![WhatsApp Image 2024-05-10 at 21 51 14 (1)](https://github.com/TP-Coltec-UFMG/2024_303_pczin/assets/161468932/3e21b0ac-8edc-4c79-addb-e701da4bc26f)
+  ![WhatsApp Image 2024-05-10 at 21 51 14](https://github.com/TP-Coltec-UFMG/2024_303_pczin/assets/161468932/c80db1a5-f72c-4cae-8a01-7e161a8270eb)
+
 
 
 
@@ -26,8 +27,8 @@ Opções:
 
 Acessibilidade:
 Colocamos acessibilidade para pessoas daltonicas, e elas podem escolher entre 3 diferentes tipos de daltonismos
+![WhatsApp Image 2024-05-10 at 21 51 14 (1)](https://github.com/TP-Coltec-UFMG/2024_303_pczin/assets/161468932/3e21b0ac-8edc-4c79-addb-e701da4bc26f)
 
-![WhatsApp Image 2024-05-10 at 21 51 14](https://github.com/TP-Coltec-UFMG/2024_303_pczin/assets/161468932/c80db1a5-f72c-4cae-8a01-7e161a8270eb)
 
 
 
