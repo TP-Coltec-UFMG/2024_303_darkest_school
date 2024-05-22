@@ -20,7 +20,8 @@ Temos 3 opções de clicks:
 - Regular o som
 - Acessibilidade
 - Idioma
-![Captura de tela de 2024-05-22 13-21-28](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/d4a6b57c-c1a7-4d53-8dec-96fcea383069)
+![Captura de tela de 2024-05-22 13-21-14](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/a5ba08b3-e338-4421-bbff-836c7f618d14)
+
 
 ![Captura de tela de 2024-05-22 13-21-30](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/d95b9784-25c9-45e9-92e1-b99927b556e4)
 
