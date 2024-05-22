@@ -35,7 +35,8 @@ Temos 3 opções de clicks:
 
 **Acessibilidade:**
 Colocamos acessibilidade para pessoas daltonicas, e elas podem escolher entre 3 diferentes tipos de daltonismos
-![Captura de tela de 2024-05-22 13-21-45](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/584d8f4f-e0ce-48ef-8737-9a2fa4c3176c)
+![Captura de tela de 2024-05-22 13-21-28](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/4d096439-0359-48e5-8761-20eca4d1d335)
+
 
 
 
