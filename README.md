@@ -1,4 +1,4 @@
-# 2024_303_pczin
+# 2024_303_darkest_school
 
 Narrativa: 
   Um garoto dormiu acidentalmente na aula de Programação no laboratório do Colégio que ele estuda. Ao acordar, ele estava sozinho, nem mesmo sua professora estava no laboratório. Para piorar sua situação, a porta estava trancada! Agora esse menino dorminhoco terá que resolver puzzles para tentar sair do colégio. Cada fase terá puzzles diferentes, e a fase final terá uma senha que abrirá a porta da escola. 
