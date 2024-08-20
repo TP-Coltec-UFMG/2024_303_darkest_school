@@ -1,6 +1,7 @@
 # 2024_303_darkest_school
 
 **Link com o Zip do jogo:** https://drive.google.com/file/d/1V06ddVR-45_c6dICYbEcKdZGukCVEqvJ/view?usp=share_link
+
 **Narrativa:**
   Um garoto dormiu acidentalmente na aula de Programação no laboratório do Colégio que ele estuda. Ao acordar, ele estava sozinho, nem mesmo sua professora estava no laboratório. Para piorar sua situação, a porta estava trancada! Agora esse menino dorminhoco terá que resolver puzzles para tentar sair do colégio. Cada fase terá puzzles diferentes, e a fase final terá uma senha que abrirá a porta da escola. 
 
