@@ -7,15 +7,19 @@ Darkest School é ambientado em um cen´ario escolar, onde um aluno adormece dur
 
 <img width="160" alt="coltequinho" src="https://github.com/user-attachments/assets/0e9f5932-cb8a-4885-91fc-82643ffc5223">
 
-<img width="160" src="![lab amarelo completo](https://github.com/user-attachments/assets/218853a5-14d7-4839-aeba-62e96fce3a45)"> 
 
 
+**Dinâmica do jogo**
 
-**Objetivo:**
- O objetivo é escapar de uma sala cheia de desafios dentro de um limite de tempo determinado. Para alcançá-lo, é preciso resolver os desafios/MiniGames contidos na sala, para que no final você consiga abrir a porta do laboratório trancada.
+O jogo começa com Coltequinho (controlado pelo jogador) acordando no laboratáorio de informática, com as luzes apagadas. O objetivo do jogador é explorar todo o espaço com o personagem e descobrir todos os puzzles e mini-jogos que existem na sala. Cada puzzle pode liberar outros enigmas ou fornecer partes da senha necessária para sair do laboratório.
+
+**Cenário principal do Jogo:**
+![lab amarelo completo](https://github.com/user-attachments/assets/218853a5-14d7-4839-aeba-62e96fce3a45)
+
 
 
 **Tela inicial:**
+
 A tela inicial já mostra o primeiro cenário: laboratório de informática.
 Temos 3 opções de clicks: 
 - Jogar -> começa o jogo
@@ -55,11 +59,11 @@ Colocamos acessibilidade para pessoas daltonicas, e elas podem escolher entre 3 
 os 3 três tipo de daltonismo são:
 
 
- PROLANOPIA: Nesse caso, o indivíduo pode enxergar tons de marrom, verde ou cinza para substituir o pigmento vermelho.
+ - PROLANOPIA: Nesse caso, o indivíduo pode enxergar tons de marrom, verde ou cinza para substituir o pigmento vermelho.
 
- DEUTERANOPIA: Esse não enxerga a cor verde. Os tons vistos são mais próximo do marrom.
+ - DEUTERANOPIA: Esse não enxerga a cor verde. Os tons vistos são mais próximo do marrom.
  
- TRITANOPIA: Os indivíduos que são diagnosticados com essa condição não conseguem distinguir entre as cores azul e amarela.
+ - TRITANOPIA: Os indivíduos que são diagnosticados com essa condição não conseguem distinguir entre as cores azul e amarela.
 
 
 
