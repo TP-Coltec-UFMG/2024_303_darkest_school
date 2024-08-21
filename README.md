@@ -6,7 +6,8 @@
 Darkest School é ambientado em um cen´ario escolar, onde um aluno adormece durante uma aula no laborat´orio de inform´atica. Ao despertar, percebe que todos já se foram, inclusive o professor. No entanto, a porta do laboratório só pode ser destrancada com a digital de um docente ou mediante uma senha que precisa ser descoberta. Para escapar, o jogador deve explorar o ambiente, resolver enigmas e encontrar pistas escondidas, enfrentando uma atmosfera de suspense e desafios. Nosso personagem principal é o Coltequinho, o aluno que dormiu em sala. Escolhemos essa ambientaçãoo por estarmos no último ano da escola e quisemos fazer uma singela homenagem a ela. O objetivo final de Coltequinho é sair do laboratório antes do tempo acabar.
 
 <img width="160" alt="coltequinho" src="https://github.com/user-attachments/assets/0e9f5932-cb8a-4885-91fc-82643ffc5223">
-<img scr="![lab amarelo completo](https://github.com/user-attachments/assets/ef86ccd6-cf70-4663-9ee7-8653a813c1e9)">
+
+<img width="160" src="![lab amarelo completo](https://github.com/user-attachments/assets/218853a5-14d7-4839-aeba-62e96fce3a45)"> 
 
 
 
@@ -55,6 +56,24 @@ os 3 três tipo de daltonismo são:
  TRITANOPIA: Os indivíduos que são diagnosticados com essa condição não conseguem distinguir entre as cores azul e amarela.
 
 
+
+**MiniGames**
+
+
+SIMETRIA:
+![simetria3](https://github.com/user-attachments/assets/25dc5caa-8864-46f7-9b43-20eae8efbec2)
+
+TETRIS:
+![tetris](https://github.com/user-attachments/assets/ec9cf2b5-14d4-4546-9273-0a734bd5315c)
+
+JOGO DA VELHA:
+![velha](https://github.com/user-attachments/assets/e751cf36-04bc-4909-a9df-6fe0102eddd6)
+
+JOGO DOS QUINZE:
+![jogo-dos-15](https://github.com/user-attachments/assets/46d21212-fa2f-4725-9110-2399e49a4cea)
+
+JOGO DAS CORES:
+![jg-das-cores2](https://github.com/user-attachments/assets/b08922d1-cd87-446a-b8fd-fbdbfd04a72d)
 
 
 
