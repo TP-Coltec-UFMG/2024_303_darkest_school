@@ -50,11 +50,11 @@ Temos 3 opções de clicks:
 Colocamos acessibilidade para pessoas daltonicas, e elas podem escolher entre 3 diferentes tipos de daltonism.os
 Os 3 três tipo de daltonismo são:
 
- **- PROLANOPIA:** Nesse caso, o indivíduo pode enxergar tons de marrom, verde ou cinza para substituir o pigmento vermelho.
+ - PROLANOPIA: Nesse caso, o indivíduo pode enxergar tons de marrom, verde ou cinza para substituir o pigmento vermelho.
  
- **- DEUTERANOPIA:** Esse não enxerga a cor verde. Os tons vistos são mais próximo do marrom.
+ - DEUTERANOPIA: Esse não enxerga a cor verde. Os tons vistos são mais próximo do marrom.
  
- **- TRITANOPIA:** Os indivíduos que são diagnosticados com essa condição não conseguem distinguir entre as cores azul e amarela.
+ - TRITANOPIA: Os indivíduos que são diagnosticados com essa condição não conseguem distinguir entre as cores azul e amarela.
 
 ![menu44](https://github.com/user-attachments/assets/e41a8080-68e7-4f92-87b6-f990c383f761)
 
