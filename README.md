@@ -50,14 +50,32 @@ Temos 3 opções de clicks:
 Colocamos acessibilidade para pessoas daltonicas, e elas podem escolher entre 3 diferentes tipos de daltonismos
 ![Captura de tela de 2024-05-22 13-21-28](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/4d096439-0359-48e5-8761-20eca4d1d335)
 
+
+
 os 3 três tipo de daltonismo são:
+
+
  PROLANOPIA: Nesse caso, o indivíduo pode enxergar tons de marrom, verde ou cinza para substituir o pigmento vermelho.
+
  DEUTERANOPIA: Esse não enxerga a cor verde. Os tons vistos são mais próximo do marrom.
+ 
  TRITANOPIA: Os indivíduos que são diagnosticados com essa condição não conseguem distinguir entre as cores azul e amarela.
 
 
 
-**MiniGames**
+Créditos:
+Nome dos criadores
+![Captura de tela de 2024-05-22 13-21-45](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/584d8f4f-e0ce-48ef-8737-9a2fa4c3176c)
+
+
+
+
+
+
+
+
+
+**MiniGames:**
 
 
 SIMETRIA:
@@ -82,7 +100,4 @@ O jogador deve descobrir a ordem correta das cores preenchendo retângulos em br
 
 
 
-Créditos:
-Nome dos criadores
-![Captura de tela de 2024-05-22 13-21-45](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/584d8f4f-e0ce-48ef-8737-9a2fa4c3176c)
 
