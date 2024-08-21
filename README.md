@@ -83,7 +83,7 @@ Nome dos criadores
 
 
 SIMETRIA:
-O jogador deve espelhar o padr˜ao de Xs ou Os marcado em um grande quadrado da esquerda no grande quadrado da direita 
+O jogador deve espelhar o padrão de Xs ou Os marcado em um grande quadrado da esquerda no grande quadrado da direita 
 ![simetria3](https://github.com/user-attachments/assets/25dc5caa-8864-46f7-9b43-20eae8efbec2)
 
 TETRIS:
@@ -91,7 +91,7 @@ O jogador deve encaixar peças de formatos variados, evitando as acumular vertic
 ![tetris](https://github.com/user-attachments/assets/ec9cf2b5-14d4-4546-9273-0a734bd5315c)
 
 JOGO DA VELHA:
-O jogador deve preencher s´ımbolos “X” ou “O” nas células deuma grade 3x3 para formar uma linha horizontal, vertical ou diagonal
+O jogador deve preencher símbolos “X” ou “O” nas células deuma grade 3x3 para formar uma linha horizontal, vertical ou diagonal
 ![velha](https://github.com/user-attachments/assets/e751cf36-04bc-4909-a9df-6fe0102eddd6)
 
 JOGO DOS QUINZE:
