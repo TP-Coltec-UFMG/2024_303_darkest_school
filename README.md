@@ -3,7 +3,10 @@
 **Link com o Zip do jogo:** https://drive.google.com/file/d/1V06ddVR-45_c6dICYbEcKdZGukCVEqvJ/view?usp=share_link
 
 **Narrativa:**
-  Um garoto dormiu acidentalmente na aula de Programação no laboratório do Colégio que ele estuda. Ao acordar, ele estava sozinho, nem mesmo sua professora estava no laboratório. Para piorar sua situação, a porta estava trancada! Agora esse menino dorminhoco terá que resolver puzzles para tentar sair do colégio. Cada fase terá puzzles diferentes, e a fase final terá uma senha que abrirá a porta da escola. 
+Darkest School é ambientado em um cen´ario escolar, onde um aluno adormece durante uma aula no laborat´orio de inform´atica. Ao despertar, percebe que todos já se foram, inclusive o professor. No entanto, a porta do laboratório só pode ser destrancada com a digital de um docente ou mediante uma senha que precisa ser descoberta. Para escapar, o jogador deve explorar o ambiente, resolver enigmas e encontrar pistas escondidas, enfrentando uma atmosfera de suspense e desafios. Nosso personagem principal é o Coltequinho, o aluno que dormiu em sala. Escolhemos essa ambientaçãoo por estarmos no último ano da escola e quisemos fazer uma singela homenagem a ela. O objetivo final de Coltequinho é sair do laboratório antes do tempo acabar.
+
+<img width="160" alt="coltequinho" src="https://github.com/user-attachments/assets/0e9f5932-cb8a-4885-91fc-82643ffc5223">
+
 
 
 **Objetivo:**
