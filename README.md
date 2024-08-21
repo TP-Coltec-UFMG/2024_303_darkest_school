@@ -61,18 +61,23 @@ os 3 três tipo de daltonismo são:
 
 
 SIMETRIA:
+O jogador deve espelhar o padr˜ao de Xs ou Os marcado em um grande quadrado da esquerda no grande quadrado da direita 
 ![simetria3](https://github.com/user-attachments/assets/25dc5caa-8864-46f7-9b43-20eae8efbec2)
 
 TETRIS:
+O jogador deve encaixar peças de formatos variados, evitando as acumular verticalmente 
 ![tetris](https://github.com/user-attachments/assets/ec9cf2b5-14d4-4546-9273-0a734bd5315c)
 
 JOGO DA VELHA:
+O jogador deve preencher s´ımbolos “X” ou “O” nas células deuma grade 3x3 para formar uma linha horizontal, vertical ou diagonal
 ![velha](https://github.com/user-attachments/assets/e751cf36-04bc-4909-a9df-6fe0102eddd6)
 
 JOGO DOS QUINZE:
+O jogador deve organizar em ordem crescente 15 peças de numeros, letras ou figuras, dispostas aleatoriamente, em uma grade 4x4
 ![jogo-dos-15](https://github.com/user-attachments/assets/46d21212-fa2f-4725-9110-2399e49a4cea)
 
 JOGO DAS CORES:
+O jogador deve descobrir a ordem correta das cores preenchendo retângulos em branco e analisando o feedback fornecido
 ![jg-das-cores2](https://github.com/user-attachments/assets/b08922d1-cd87-446a-b8fd-fbdbfd04a72d)
 
 
