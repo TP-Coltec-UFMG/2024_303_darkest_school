@@ -35,7 +35,7 @@ Temos 3 opções de clicks:
 **Opções:** 
 - Regular o som
 - Acessibilidade
-- Idioma
+- Idiomas: Português, Espanhol e Inglês
 ![Captura de tela de 2024-05-22 13-21-14](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/a5ba08b3-e338-4421-bbff-836c7f618d14)
 
 
@@ -67,7 +67,7 @@ os 3 três tipo de daltonismo são:
 
 
 
-Créditos:
+**Créditos:**
 Nome dos criadores
 ![Captura de tela de 2024-05-22 13-21-45](https://github.com/TP-Coltec-UFMG/2024_303_darkest_school/assets/161468932/584d8f4f-e0ce-48ef-8737-9a2fa4c3176c)
 
