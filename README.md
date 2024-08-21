@@ -5,6 +5,11 @@
 **Narrativa:**
   Um garoto dormiu acidentalmente na aula de Programação no laboratório do Colégio que ele estuda. Ao acordar, ele estava sozinho, nem mesmo sua professora estava no laboratório. Para piorar sua situação, a porta estava trancada! Agora esse menino dorminhoco terá que resolver puzzles para tentar sair do colégio. Cada fase terá puzzles diferentes, e a fase final terá uma senha que abrirá a porta da escola. 
 
+
+**Objetivo:**
+ O objetivo é escapar de uma sala cheia de desafios dentro de um limite de tempo determinado. Para alcançá-lo, é preciso resolver os desafios/MiniGames contidos na sala, para que no final você consiga abrir a porta do laboratório trancada.
+
+
 **Tela inicial:**
 A tela inicial já mostra o primeiro cenário: laboratório de informática.
 Temos 3 opções de clicks: 
