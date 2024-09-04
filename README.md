@@ -1,6 +1,6 @@
 # 2024_303_darkest_school
 
-**Link com o Zip do jogo:** https://drive.google.com/file/d/1oWpawI9XknsbOvKkGzQsqU4Zc2LIxEY4/view?usp=sharing
+**Link com o Zip do jogo:** https://drive.google.com/file/d/1ACKz5-jyhWlBEMC9wEswva8xAzzH5-qe/view?usp=sharing
 
 **Narrativa:**
 Darkest School é ambientado em um cenário escolar, onde um aluno adormece durante uma aula no laboratório de informática. Ao despertar, percebe que todos já se foram, inclusive o professor. No entanto, a porta do laboratório só pode ser destrancada com a digital de um docente ou mediante uma senha que precisa ser descoberta. Para escapar, o jogador deve explorar o ambiente, resolver enigmas e encontrar pistas escondidas, enfrentando uma atmosfera de suspense e desafios. Nosso personagem principal é o Coltequinho, o aluno que dormiu em sala. Escolhemos essa ambientaçãoo por estarmos no último ano da escola e quisemos fazer uma singela homenagem a ela. O objetivo final de Coltequinho é sair do laboratório antes do tempo acabar.
