@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-MENU PNC-1.0";
 const contentToCache = [
-    "Build/Webgl.loader.js",
-    "Build/Webgl.framework.js",
-    "Build/Webgl.data",
-    "Build/Webgl.wasm",
+    "Build/2024_303_darkest_school.loader.js",
+    "Build/2024_303_darkest_school.framework.js",
+    "Build/2024_303_darkest_school.data",
+    "Build/2024_303_darkest_school.wasm",
     "TemplateData/style.css"
 
 ];
